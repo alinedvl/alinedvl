@@ -1,8 +1,11 @@
 ## Hello there! 😁
 
+<p>Uma desenvolvedora Frontend, encantada com as infinitas possibilidades que 
+o mundo da programação pode oferecer! 🤩</p>
+
 <div>
   <a href="https://github.com/alinedvl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedvl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedvl&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedvl&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -13,7 +16,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Me segue nas redes abaixo 💛
  
 <div> 
  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
