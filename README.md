@@ -1,7 +1,7 @@
 ## Hello there! 😁
 
 <p>Uma desenvolvedora Frontend, encantada com as infinitas possibilidades que 
-o mundo da programação pode oferecer! 🤩</p> <br>
+o mundo da programação pode oferecer! 🤩</p> 
 <p>Com foco em ser uma profissional capaz de contribuir e aprimorar minhas habilidades através da experiência com outros profissionais.</p>
 
 
