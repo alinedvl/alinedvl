@@ -6,8 +6,8 @@ o mundo da programação pode oferecer! 🤩</p>
 
  <div>
    <a href="https://github.com/alinedvl">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alinedvl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alinedvl&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alinedvl&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alinedvl&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 
