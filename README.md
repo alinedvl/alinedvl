@@ -4,6 +4,12 @@
 o mundo da programação pode oferecer! 🤩</p> 
 <p>Com foco em ser uma profissional capaz de contribuir e aprimorar minhas habilidades através da experiência com outros profissionais.</p>
 
+ <div>
+   <a href="https://github.com/alinedvl">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedvl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedvl&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
